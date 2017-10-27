@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
-description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
+title: Magee Music Group
+description: This site was built to showcase the Magee Music Group
+email: mageemusicgroup@gmail.com
 
 menu:
 - {name: 'Projects', url: ''}
@@ -17,9 +17,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Magee Music Group Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/1/100599977803231866160'
+  rel-publisher: 'https://plus.google.com/u/1/100599977803231866160'
 
 #-------------------------------
 # Google Analytics Section
@@ -35,14 +35,14 @@ seo:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # We are the MMG
 
   This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You can contact us [through email](mailto:mageemusicgroup@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40music_magee) if you have any questions about our music or want to collaborate.
 
 #-------------------------------
 # Work Section
@@ -58,10 +58,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/music_magee'}
+- {icon: 'instagram', link: 'https://www.instagram.com/mageemusicgroup/'}
+- {icon: 'github', link: 'https://github.com/mageemusicgroup'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/user-565891908'}
+- {icon: 'envelope', link: 'mailto:mageemusicgroup@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
